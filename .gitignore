@@ -8,6 +8,11 @@ eth/artifacts
 client/node_modules
 client/.next
 dist/
+eth/dist/
+client/dist/
+client/pages/dist/
+client/components/dist/
+client/utils/dist/
 
 
 
