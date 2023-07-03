@@ -54,6 +54,7 @@ const abi = [
     type: "function",
   },
 ];
+
 const contactFactory = new ethers.Contract(address, abi, provider);
 
 export default contactFactory;
