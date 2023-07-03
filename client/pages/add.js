@@ -1,4 +1,4 @@
-import Layout from "../components/layout";
+import Layout from "../components/Layout";
 import { Form, Input, Button, Message } from "semantic-ui-react";
 import { useState } from "react";
 import { ethers } from "ethers";

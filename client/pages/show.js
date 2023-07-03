@@ -1,4 +1,4 @@
-import Layout from "../components/layout";
+import Layout from "../components/Layout";
 import { Form, Button, Message } from "semantic-ui-react";
 import { useRef, useState } from "react";
 import getContactByAddress from "../utils/getContactByAddress";
